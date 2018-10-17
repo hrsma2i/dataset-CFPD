@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+
+data.zip
+fashon_parsing_data.mat
+
+image/*
+label/bbox.json
